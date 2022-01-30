@@ -1,0 +1,3 @@
+[submodule "libs/lykke-trading-api"]
+	path = libs/lykke-trading-api
+	url = https://github.com/LykkeCity/Trading-API.git
